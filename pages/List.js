@@ -1,16 +1,16 @@
 import Head from "next/head";
-const Crud = () => {
+const List = () => {
   return (
     <>
       <Head>
-        <title>Halaman CRUD</title>
-        <link rel="icon" href="/favicon.ico" content="halaman CRUD" />
+        <title>Halaman List</title>
+        <link rel="icon" href="/favicon.ico" content="halaman List" />
       </Head>
       <div>
-        <h2>Halaman CRUD</h2>
+        <h2>Halaman List</h2>
       </div>
     </>
   );
 };
 
-export default Crud;
+export default List;

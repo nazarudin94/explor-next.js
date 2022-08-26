@@ -6,10 +6,16 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "knex": "knex"
   },
   "dependencies": {
     "autoprefixer": "^10.4.8",
+    "bcryptjs": "^2.4.3",
+    "install": "^0.13.0",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^2.2.0",
+    "mysql": "^2.18.1",
     "next": "12.2.5",
     "postcss": "^8.4.16",
     "react": "18.2.0",

@@ -1,7 +1,6 @@
-## Description
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+## Description
+Eksplirasi Next.js dengan front end tailwind dan mysql sebagai db.
 ## Getting Started
 
 First, run the development server:
